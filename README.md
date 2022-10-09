@@ -13,3 +13,7 @@ The main dataset for this project is open source and was downloaded from [Kaggle
 
 ## Results
 It was determined that the highest number of accidents occur during October-December, however there wasn't enough statistical evidence to prove that the weather has an impact on the frequency of car accidents.
+
+
+## Deliverable
+Visual results of this analysis are available [here](https://public.tableau.com/app/profile/munavvar.makhkamova/viz/USCarAccidents2016-2021/Story1).
